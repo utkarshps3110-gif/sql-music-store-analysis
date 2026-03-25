@@ -20,6 +20,8 @@ CASE statements
 Chinook Music Store Database
 
 ## Project Structure
+
+```
 sql-music-store-analysis
 │
 ├── dataset
@@ -27,3 +29,4 @@ sql-music-store-analysis
 ├── queries.sql
 ├── analysis.md
 └── README.md
+```
